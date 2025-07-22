@@ -1,0 +1,11 @@
+Position,Level,Salary
+Junior,1,45000
+Senior,2,50000
+Lead,3,60000
+Manager,4,80000
+AVP,5,110000
+VP,6,150000
+SVP,7,200000
+C-Level,8,300000
+CEO,9,500000
+Chairman,10,1000000
